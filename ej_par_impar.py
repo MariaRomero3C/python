@@ -7,5 +7,5 @@ def par_impar(num):
 print (par_impar(5))
 print (par_impar(8))
 
-numero = int(input("Dime un número"))
+num = int(input("Dime un número"))
 print(par_impar(num))
